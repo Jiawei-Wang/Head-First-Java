@@ -5,3 +5,6 @@ public class MyFirstApp {
         System.out.println("World");
     }
 }
+
+// javac MyFirstApp.javac
+// java MyFirstApp
