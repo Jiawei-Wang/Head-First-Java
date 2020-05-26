@@ -6,4 +6,5 @@ public class DotComBust {
     private GameHelper helper = new GameHelper();
     // new list for DotCom instances
 
+
 }
